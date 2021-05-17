@@ -2,7 +2,7 @@
 Wifi Probe surveillance
 
 
-Check the full usage and documentation here: [unfone_final.pdf](https://github.com/jnash10/Unfone/files/6251788/unfone_final.pdf)
+Check the full usage and development here: [unfone_final.pdf](https://github.com/jnash10/Unfone/files/6251788/unfone_final.pdf)
 
 Find a live demonstration here: https://www.youtube.com/watch?v=mh2EEK3NY-8
 
