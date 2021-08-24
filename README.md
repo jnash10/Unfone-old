@@ -1,5 +1,5 @@
 # Unfone
-Wifi Probe surveillance
+Surveillance and footfall measurements using WiFi probe survelliance.
 
 
 Check the full usage and development here: [unfone_final.pdf](https://github.com/jnash10/Unfone/files/6251788/unfone_final.pdf)
